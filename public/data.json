@@ -1,0 +1,1457 @@
+[
+  {
+  "location": [
+  63.8266078,
+  20.265149
+  ],
+  "title": "House of Metal 14",
+  "lead": "Stadsfestival på Folkets hus, Umeå den 28-29 februari 2020",
+  "img": "house-of-metal-2020.jpg",
+  "date": "2020-02-28",
+  "enddate": "Sat Feb 29 2020 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Umeå",
+  "best": ["Nervosa","Carcass","Marduk","Black Bay","I am Morbid","Bewitched","Darkened Nocturn Slaugthercult"],
+  
+  "venue": "Folkets hus"
+  },
+  {
+  "location": [
+  59.3185177,
+  18.0560855
+  ],
+  "title": "Coraline",
+  "lead": "Opera på Folkoperan, Stockholm den 20 februari 2020",
+  "img": "coraline.jpg",
+  "date": "2020-02-20",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Folkoperan"
+  },
+  {
+  "location": [
+  59.3234441,
+  18.0988807
+  ],
+  "title": "Opeth",
+  "lead": "Konsert på Cirkus, Stockholm den 13 januari 2020",
+  "img": "opeth-2020.jpg",
+  "date": "2020-01-13",
+  
+  "region": "Stockholm",
+  
+  "bands": ["The Vintage Caravan"],
+  "venue": "Cirkus"
+  },
+  {
+  "location": [
+  59.3361199,
+  18.0660616
+  ],
+  "title": "Star Wars Episode IX - The Rise of the Skywalker",
+  "lead": "Film på Rigoletto, Stockholm den 2 januari 2020",
+  "img": "starwars-ix.jpg",
+  "date": "2020-01-02",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Rigoletto"
+  },
+  {
+  "location": [
+  58.5932846,
+  16.1754145
+  ],
+  "title": "December Darkness II",
+  "lead": "Endagsfestival på Dynamo, Norrköping den 28 december 2019",
+  "img": "december-darkness-2019.jpg",
+  "date": "2019-12-28",
+  "enddate": "Sat Dec 28 2019 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Norrköping",
+  "best": ["Domgård","Ultra Silvam"],
+  
+  "venue": "Dynamo"
+  },
+  {
+  "location": [
+  59.3055719,
+  18.1196197
+  ],
+  "title": "Joker",
+  "lead": "Film på Filmstaden Sickla, Stockholm den 11 december 2019",
+  "img": "joker-2019.jpg",
+  "date": "2019-12-11",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Filmstaden Sickla"
+  },
+  {
+  "location": [
+  59.2938881,
+  18.0789738
+  ],
+  "title": "Amon Amarth: Berserker World Tour",
+  "lead": "Konsert på Annexet, Stockholm den 7 december 2019",
+  "img": "amon-amarth-2019.jpg",
+  "date": "2019-12-07",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Hypocrisy","Arch Enemy"],
+  "venue": "Annexet"
+  },
+  {
+  "location": [
+  59.2938881,
+  18.0789738
+  ],
+  "title": "Wardruna",
+  "lead": "Konsert på Annexet, Stockholm den 1 december 2019",
+  "img": "wardruna-2019.jpg",
+  "date": "2019-12-01",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Kaunan"],
+  "venue": "Annexet"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Mayhem + support",
+  "lead": "Konsert på Fryshuset, Stockholm den 29 november 2019",
+  "img": "mayhem-2019.jpg",
+  "date": "2019-11-29",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Ghaal&#x27;s WYRD"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.2934981,
+  18.0764466
+  ],
+  "title": "Scandinavian Deathfest",
+  "lead": "Endagsfestival på Kraken, Stockholm den 13 oktober 2019",
+  "img": "deathfest-2019.jpg",
+  "date": "2019-10-13",
+  
+  "region": "Stockholm",
+  "best": ["Vanhelgd","Grave","LIK"],
+  
+  "venue": "Kraken"
+  },
+  {
+  "location": [
+  59.3205994,
+  18.053676
+  ],
+  "title": "Airbourne",
+  "lead": "Konsert på Münchenbryggeriet, Stockholm den 5 oktober 2019",
+  "img": "airbourne-2019.jpg",
+  "date": "2019-10-05",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Supersuckers"],
+  "venue": "Münchenbryggeriet"
+  },
+  {
+  "location": [
+  59.2934981,
+  18.0764466
+  ],
+  "title": "Svartidauði",
+  "lead": "Konsert på Kraken, Stockholm den 26 september 2019",
+  "img": "svartidaudi-2019.jpg",
+  "date": "2019-09-26",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Sinmara"],
+  "venue": "Kraken"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "King Diamond",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 8 augusti 2019",
+  "img": "king-diamond-2019.jpg",
+  "date": "2019-08-08",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Batushka"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  60.678416,
+  17.1761251
+  ],
+  "title": "Gefle Metal Festival 4",
+  "lead": "Festival på Gasklockorna, Gävle den 19-20 juli 2019",
+  "img": "gefle-metal-festival-2019.jpg",
+  "date": "2019-07-19",
+  "enddate": "Sat Jul 20 2019 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Stockholm",
+  "best": ["Dark Tranquility","Deathstars","Dimmu Borgir","Dying Fetus","Eiveitie","Legion of the Damned","Macabre Decay","Ministry","Nervosa","Primordial","Satyricon","Scarlet"],
+  
+  "venue": "Gasklockorna"
+  },
+  {
+  "location": [
+  56.1174188,
+  14.6774666
+  ],
+  "title": "Sweden Rock Festival 28",
+  "lead": "Festival i Norje, Sölvesborg den 5-8 juni 2019",
+  "img": "sweden-rock-festival-2019.jpg",
+  "date": "2019-06-05",
+  "enddate": "Sat Jun 08 2019 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Sölvesborg",
+  "best": ["Amon Amarth","Brothers of Metal","Burning Witches","Demons &amp; Wizards","Jag Panzer","Saxon","Tenacious D","Unleashed"],
+  
+  "venue": "Norje"
+  },
+  {
+  "location": [
+  59.2925432,
+  18.0779979
+  ],
+  "title": "Stockholm Slaughter: act III",
+  "lead": "Stadsfestival på Kraken och Slaktkyrkan, Stockholm den 27 april 2019",
+  "img": "stockholm-slaughter-2019.jpg",
+  "date": "2019-04-27",
+  
+  "region": "Stockholm",
+  "best": ["Mgła","Månegarm"],
+  
+  "venue": "Kraken och Slaktkyrkan"
+  },
+  {
+  "location": [
+  60.435783,
+  22.2037737
+  ],
+  "title": "Close-Up båten 24",
+  "lead": "Temakryssning till Åbo, Finland den 28-29 mars 2019",
+  "img": "close-up-baten-2019.jpg",
+  "date": "2019-03-28",
+  "enddate": "Fri Mar 29 2019 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Finland",
+  "best": ["Crawl","Dark Tranquility","Demonical","LIK","Unanimated","Vomitory"],
+  
+  "venue": "Åbo"
+  },
+  {
+  "location": [
+  59.3184267,
+  18.0722233
+  ],
+  "title": "Agatha Christie eller fint folk omkommer sent",
+  "lead": "Spex på Södra Teatern, Stockholm den 25 mars 2019",
+  "img": "agatha-christie.jpg",
+  "date": "2019-03-25",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Södra Teatern"
+  },
+  {
+  "location": [
+  63.8268491,
+  20.2643658
+  ],
+  "title": "House of Metal",
+  "lead": "Stadsfestival på Folkets hus, Umeå den 1-2 mars 2019",
+  "img": "house-of-metal-2019.jpg",
+  "date": "2019-03-01",
+  "enddate": "Sat Mar 02 2019 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Umeå",
+  "best": ["At The Gates","LIK","Rotting Christ","Tiamat"],
+  
+  "venue": "Folkets hus"
+  },
+  {
+  "location": [
+  59.3344933,
+  18.060342
+  ],
+  "title": "Röjar-Ralf kraschar internet",
+  "lead": "Film på Filmstaden Sergel, Stockholm den 21 februari 2019",
+  "img": "ralf-2019.jpg",
+  "date": "2019-02-21",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Filmstaden Sergel"
+  },
+  {
+  "location": [
+  59.3344933,
+  18.060342
+  ],
+  "title": "Glass",
+  "lead": "Film på Filmstaden Sergel, Stockholm den 14 februari 2019",
+  "img": "glass-2019.jpg",
+  "date": "2019-02-14",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Filmstaden Sergel"
+  },
+  {
+  "location": [
+  59.2938881,
+  18.0789738
+  ],
+  "title": "Behemoth: Ecclesia Diabolica Evropa 2019",
+  "lead": "Konsert på Annexet, Stockholm den 28 januari 2019",
+  "img": "behemoth-2019.jpg",
+  "date": "2019-01-28",
+  
+  "region": "Stockholm",
+  
+  "bands": ["At The Gates","Wolves in the Throne Room"],
+  "venue": "Annexet"
+  },
+  {
+  "location": [
+  59.3344933,
+  18.060342
+  ],
+  "title": "Fantastiska Vidunder: Grindelwalds brott",
+  "lead": "Film på Filmstaden Sergel, Stockholm den 5 december 2018",
+  "img": "beasts-2019.jpg",
+  "date": "2018-12-05",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Filmstaden Sergel"
+  },
+  {
+  "location": [
+  59.334076,
+  18.0536626
+  ],
+  "title": "Myrkur",
+  "lead": "Konsert på Vasateatern, Stockholm den 3 december 2018",
+  "img": "myrkur-2018.jpg",
+  "date": "2018-12-03",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Jo Quail"],
+  "venue": "Vasateatern"
+  },
+  {
+  "location": [
+  59.3055719,
+  18.1196197
+  ],
+  "title": "Bohemian Rhapsody",
+  "lead": "Film på Filmstaden Sickla, Stockholm den 18 november 2018",
+  "img": "bohemian-rhapsody-2018.jpg",
+  "date": "2018-11-18",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Filmstaden Sickla"
+  },
+  {
+  "location": [
+  59.2925432,
+  18.0779979
+  ],
+  "title": "Enslaved: Army of the North Star",
+  "lead": "Konsert på Slaktkyrkan, Stockholm den 11 november 2018",
+  "img": "enslaved-2018.jpg",
+  "date": "2018-11-11",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Gaahls Wyrd","Skogen"],
+  "venue": "Slaktkyrkan"
+  },
+  {
+  "location": [
+  59.3320749,
+  18.0627666
+  ],
+  "title": "Snövit för vuxna",
+  "lead": "Teater på Kulturhuset Stadsteatern, Stockholm den 1 november 2018",
+  "img": "snovit.jpg",
+  "date": "2018-11-01",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Kulturhuset Stadsteatern"
+  },
+  {
+  "location": [
+  59.3361199,
+  18.0660616
+  ],
+  "title": "The Nun",
+  "lead": "Film på Rigoletto, Stockholm den 8 september 2018",
+  "img": "nun-2018.jpg",
+  "date": "2018-09-08",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Rigoletto"
+  },
+  {
+  "location": [
+  59.3184267,
+  18.0722233
+  ],
+  "title": "Vlad Spetsaren eller Blod, Spett och Pålar",
+  "lead": "Spex på Södra Teatern, Stockholm den 28 augusti 2018",
+  "img": "vlad-spetsaren.jpg",
+  "date": "2018-08-28",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Södra Teatern"
+  },
+  {
+  "location": [
+  54.0215563,
+  9.3704717
+  ],
+  "title": "Wacken Open Air 29",
+  "lead": "Festival i Wacken, Tyskland den 2-4 augusti 2018",
+  "img": "wacken-2018.jpg",
+  "date": "2018-08-02",
+  "enddate": "Sat Aug 04 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Tyskland",
+  "best": ["Alestorm","Arch Enemy","Belphegor","Cannibal Corpse","Ensiferum","Gojira","Helloween","Korpiklaani","Nightwish","Running Wild","Toxic Holocaust","Trollfest","Watain"],
+  
+  "venue": "Wacken"
+  },
+  {
+  "location": [
+  63.1790683,
+  14.6336828
+  ],
+  "title": "Storsjöyran",
+  "lead": "Stadsfestival på Stortorget, Östersund den 27-28 juli 2018",
+  "img": "kraftwerk-2018.jpg",
+  "date": "2018-07-27",
+  "enddate": "Sat Jul 28 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Östersund",
+  "best": ["Kraftwerk","Thåström"],
+  
+  "venue": "Stortorget"
+  },
+  {
+  "location": [
+  60.678416,
+  17.1761251
+  ],
+  "title": "Gefle Metal Festival",
+  "lead": "Festival i Gasklockorna, Gävle den 13-14 juli 2018",
+  "img": "gefle-metal-festival-2018.jpg",
+  "date": "2018-07-13",
+  "enddate": "Sat Jul 14 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Gävle",
+  "best": ["Behemoth","Belphegor","Carcass","Grave Digger","Watain"],
+  
+  "venue": "Gasklockorna"
+  },
+  {
+  "location": [
+  56.1174188,
+  14.6774666
+  ],
+  "title": "Sweden Rock Festival",
+  "lead": "Festival i Norje, Sölvesborg den 6-9 juni 2018",
+  "img": "sweden-rock-festival-2018.jpg",
+  "date": "2018-06-06",
+  "enddate": "Sat Jun 09 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Sölvesborg",
+  "best": ["Dark Funeral","Dark Tranquility","Destruction","Glenn Hughes","Graveyard","Helloween","In This Moment","Iron Maiden","Judas Priest","Meshuggah","Nocturnal Rites","Ozzy Ozzbourne","Pestilence","Primordial","Stratovarius","Three Dead Fingers"],
+  
+  "venue": "Norje"
+  },
+  {
+  "location": [
+  60.0790199,
+  15.0165886
+  ],
+  "title": "Gamrocken",
+  "lead": "Festival på Folkets park, Grängesberg den 24-25 maj 2018",
+  "img": "gamrocken-2018.jpg",
+  "date": "2018-05-24",
+  "enddate": "Fri May 25 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Grängesberg",
+  "best": ["Cut up","Dark Funeral","Entrails","Naglfar","Necrophobic","Netherbird","Rotten Sound","The Crown","Wormwood"],
+  
+  "venue": "Folkets park"
+  },
+  {
+  "location": [
+  59.3183842,
+  18.0721215
+  ],
+  "title": "Ulver",
+  "lead": "Konsert på Kägelbanan, Stockholm den 19 maj 2018",
+  "img": "ulver-2018.jpg",
+  "date": "2018-05-19",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Darkher","Rome"],
+  "venue": "Kägelbanan"
+  },
+  {
+  "location": [
+  59.3371449,
+  18.0654985
+  ],
+  "title": "Batuschka",
+  "lead": "Konsert på Nalen, Stockholm den 11 maj 2018",
+  "img": "batushka-2018.jpg",
+  "date": "2018-05-11",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Morthuus","Nazghor","Pestkraft"],
+  "venue": "Nalen"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Stockholm Slaughter",
+  "lead": "Stadsfestival på Klubben/Fryshuset, Stockholm den 27-28 april 2018",
+  "img": "stockholm-slaughter-2018.jpg",
+  "date": "2018-04-27",
+  "enddate": "Sat Apr 28 2018 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Stockholm",
+  "best": ["Arkona","Aura Noir","Fejd","October Tide","Thyrfing","Tsjuder"],
+  
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  63.8268491,
+  20.2643658
+  ],
+  "title": "House of Metal",
+  "lead": "Stadsfestival på Folkets hus, Umeå den 2-3 mars 2018",
+  "img": "house-of-metal-2018.jpg",
+  "date": "2018-03-02",
+  "enddate": "Sat Mar 03 2018 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Umeå",
+  "best": ["Asagraum","Meshuggah","Solstafir","Unleashed","Vanhelgd"],
+  
+  "venue": "Folkets hus"
+  },
+  {
+  "location": [
+  60.6752604,
+  17.1434428
+  ],
+  "title": "LIK",
+  "lead": "Konsert på Dirty Harry, Gävle den 23 februari 2018",
+  "img": "lik-2018.jpg",
+  "date": "2018-02-23",
+  
+  "region": "Gävle",
+  
+  "bands": ["Septekh"],
+  "venue": "Dirty Harry"
+  },
+  {
+  "location": [
+  59.3371449,
+  18.0654985
+  ],
+  "title": "Månegarm: Härnad i Norden",
+  "lead": "Konsert på Nalen, Stockholm den 2 februari 2018",
+  "img": "manegarm-2018.jpg",
+  "date": "2018-02-02",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Cruachan","Ereb Altor"],
+  "venue": "Nalen"
+  },
+  {
+  "location": [
+  59.2934981,
+  18.0764466
+  ],
+  "title": "Watain",
+  "lead": "Konsert på Kraken, Stockholm den 5 januari 2018",
+  "img": "watain-2018.jpg",
+  "date": "2018-01-05",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Unanimated"],
+  "venue": "Kraken"
+  },
+  {
+  "location": [
+  59.3146433,
+  18.0296814
+  ],
+  "title": "Solstafir",
+  "lead": "Konsert på Debaser Strand, Stockholm den 20 december 2017",
+  "img": "solstafir-2017.jpg",
+  "date": "2017-12-20",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Myrkur","Árstíðir"],
+  "venue": "Debaser Strand"
+  },
+  {
+  "location": [
+  60.678416,
+  17.1761251
+  ],
+  "title": "Dirkschneider: back to the roots",
+  "lead": "Konsert på Gasklockorna, Gävle den 18 november 2017",
+  "img": "dirkschneider-2017.jpg",
+  "date": "2017-11-18",
+  
+  "region": "Gävle",
+  
+  "bands": ["Raven"],
+  "venue": "Gasklockorna"
+  },
+  {
+  "location": [
+  60.6773376,
+  17.1403053
+  ],
+  "title": "Apocalypse Orchestra",
+  "lead": "Konsert på Rack n Roll, Gävle den 18 november 2017",
+  "img": "apocalypse-orchestra-2017.jpg",
+  "date": "2017-11-18",
+  
+  "region": "Gävle",
+  
+  
+  "venue": "Rack n Roll"
+  },
+  {
+  "location": [
+  60.435783,
+  22.2037737
+  ],
+  "title": "Close-Up båten 21",
+  "lead": "Temakryssning till Åbo, Finland den 26-27 oktober 2017",
+  "img": "close-up-baten-2017.jpg",
+  "date": "2017-10-26",
+  "enddate": "Fri Oct 27 2017 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Finland",
+  "best": ["Ereb Altor","Myrkur","Rotting Christ","Thyrfing"],
+  
+  "venue": "Åbo"
+  },
+  {
+  "location": [
+  59.3233591,
+  18.0942014
+  ],
+  "title": "Ghost",
+  "lead": "Konsert på Gröna lund, Stockholm den 29 september 2017",
+  "img": "ghost-2017.jpg",
+  "date": "2017-09-29",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Gröna lund"
+  },
+  {
+  "location": [
+  59.3233591,
+  18.0942014
+  ],
+  "title": "Korn",
+  "lead": "Konsert på Gröna lund, Stockholm den 17 augusti 2017",
+  "img": "korn-2017.jpg",
+  "date": "2017-08-17",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Gröna lund"
+  },
+  {
+  "location": [
+  58.5727038,
+  13.3660783
+  ],
+  "title": "Grift: Tredingsriten",
+  "lead": "Konsert på Medelplana bygdegård, Götene den 5 augusti 2017",
+  "img": "grift-tredingsriten-2017.jpg",
+  "date": "2017-08-05",
+  
+  "region": "Götene",
+  
+  "bands": ["Forndom","Noêta"],
+  "venue": "Medelplana bygdegård"
+  },
+  {
+  "location": [
+  59.3233591,
+  18.0942014
+  ],
+  "title": "Megadeth",
+  "lead": "Konsert på Gröna lund, Stockholm den 30 juli 2017",
+  "img": "megadeth-2017.jpg",
+  "date": "2017-07-30",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Gröna lund"
+  },
+  {
+  "location": [
+  59.3233591,
+  18.0942014
+  ],
+  "title": "Alice Cooper",
+  "lead": "Konsert på Gröna lund, Stockholm den 27 juli 2017",
+  "img": "alice-cooper-2017.png",
+  "date": "2017-07-27",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Gröna lund"
+  },
+  {
+  "location": [
+  60.678416,
+  17.1761251
+  ],
+  "title": "Gefle Metal Festival",
+  "lead": "Festival på Gasklockorna, Gävle den 14-15 juli 2017",
+  "img": "gefle-metal-festival-2017.jpg",
+  "date": "2017-07-14",
+  "enddate": "Sat Jul 15 2017 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Gävle",
+  "best": ["Amon Amarth","Arch Enemy","Avslut","Ereb Altor","Opeth","Paradise Lost","Taake"],
+  
+  "venue": "Gasklockorna"
+  },
+  {
+  "location": [
+  59.3233591,
+  18.0942014
+  ],
+  "title": "Rob Zombie",
+  "lead": "Konsert på Gröna lund, Stockholm den 20 juni 2017",
+  "img": "rob-zombie-2017.jpg",
+  "date": "2017-06-20",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Gröna lund"
+  },
+  {
+  "location": [
+  60.6752604,
+  17.1434428
+  ],
+  "title": "Arkaid",
+  "lead": "Konsert på Dirty Harry, Gävle den 17 juni 2017",
+  "img": "arkaid-2017.jpg",
+  "date": "2017-06-17",
+  
+  "region": "Gävle",
+  
+  "bands": ["Incised"],
+  "venue": "Dirty Harry"
+  },
+  {
+  "location": [
+  59.3350788,
+  18.06081
+  ],
+  "title": "The Horror: Kungliga filharmonikerna med Katarinakören",
+  "lead": "Konsert på Konserthuset, Stockholm den 9 juni 2017",
+  "img": "the-horror-2017.jpg",
+  "date": "2017-06-09",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Konserthuset"
+  },
+  {
+  "location": [
+  62.3863965,
+  17.3051202
+  ],
+  "title": "Merciless",
+  "lead": "Konsert på Club Deströyer, Sundsvall den 19 maj 2017",
+  "img": "merciless-2017.jpg",
+  "date": "2017-05-19",
+  
+  "region": "Sundsvall",
+  
+  "bands": ["Vånda"],
+  "venue": "Club Deströyer"
+  },
+  {
+  "location": [
+  63.8268491,
+  20.2643658
+  ],
+  "title": "House of Metal",
+  "lead": "Stadsfestival på Folkets hus, Umeå den 3-4 mars 2017",
+  "img": "house-of-metal-2017.jpg",
+  "date": "2017-03-03",
+  "enddate": "Sat Mar 04 2017 01:00:00 GMT+0100 (centraleuropeisk normaltid)",
+  "region": "Umeå",
+  "best": ["Dark Tranquility","Ereb Altor","Gluttony","Grave","Scar Symmetry"],
+  
+  "venue": "Folkets hus"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Amon Amarth",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 17 december 2016",
+  "img": "amon-amarth-2016.jpg",
+  "date": "2016-12-17",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Behemoth","Grand Magus"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.2938881,
+  18.0789738
+  ],
+  "title": "Opeth",
+  "lead": "Konsert på Annexet, Stockholm den 5 november 2016",
+  "img": "opeth-2016.jpg",
+  "date": "2016-11-05",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Myrkur"],
+  "venue": "Annexet"
+  },
+  {
+  "location": [
+  60.6187955,
+  15.6558542
+  ],
+  "title": "Sabaton Open Air",
+  "lead": "Festival på Lugnets skidstadion, Falun den 17-20 augusti 2016",
+  "img": "sabaton-open-air-2016.png",
+  "date": "2016-08-17",
+  "enddate": "Sat Aug 20 2016 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Falun",
+  "best": ["Brothers of Metal","Heidevolk","Insomnium","Lordi","Sabaton","Saxon","Thyrfing"],
+  
+  "venue": "Lugnets skidstadion"
+  },
+  {
+  "location": [
+  63.1752438,
+  14.6385218
+  ],
+  "title": "Raubtier",
+  "lead": "Konsert på Gamla Teatern, Östersund den 5 mars 2016",
+  "img": "",
+  "date": "2016-03-05",
+  
+  "region": "Östersund",
+  
+  
+  "venue": "Gamla Teatern"
+  },
+  {
+  "location": [
+  63.8268491,
+  20.2643658
+  ],
+  "title": "House of Metal Pre-party",
+  "lead": "Endagsfestival på Folkets hus, Umeå den 8 februari 2014",
+  "img": "",
+  "date": "2014-02-08",
+  
+  "region": "Umeå",
+  "best": ["6th Awakening","Daemonicus"],
+  
+  "venue": "Folkets hus"
+  },
+  {
+  "location": [
+  63.1790683,
+  14.6336828
+  ],
+  "title": "Storsjöyran",
+  "lead": "Stadsfestival i Stortorget, Östersund den 27 juli 2013",
+  "img": "",
+  "date": "2013-07-27",
+  
+  "region": "Östersund",
+  "best": ["Alice Cooper"],
+  
+  "venue": "Stortorget"
+  },
+  {
+  "location": [
+  59.3727032,
+  17.998043
+  ],
+  "title": "Iron Maiden",
+  "lead": "Konsert på Friends Arena, Stockholm den 13 juli 2013",
+  "img": "iron-maiden-2013.jpg",
+  "date": "2013-07-13",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Sabaton","Voodoo Six"],
+  "venue": "Friends Arena"
+  },
+  {
+  "location": [
+  60.678416,
+  17.1761251
+  ],
+  "title": "Getaway Rock Festival",
+  "lead": "Festival på Gasklockorna, Gävle den 5-7 juli 2012",
+  "img": "getaway-2012.jpg",
+  "date": "2012-07-05",
+  "enddate": "Sat Jul 07 2012 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Gävle",
+  "best": ["Amon Amarth","Anathema","Behemoth","Ghost","Graveyard","Kings Destroy","Moonspell","Raubtier","Satyricon"],
+  
+  "venue": "Gasklockorna"
+  },
+  {
+  "location": [
+  57.7168041,
+  12.0140512
+  ],
+  "title": "Agalloch",
+  "lead": "Konsert på Fängelset, Göteborg den 8 april 2012",
+  "img": "",
+  "date": "2012-04-08",
+  
+  "region": "Göteborg",
+  
+  "bands": ["Velnias"],
+  "venue": "Fängelset"
+  },
+  {
+  "location": [
+  63.1790683,
+  14.6336828
+  ],
+  "title": "Storsjöyran",
+  "lead": "Stadsfestival på Stortorget, Östersund den 20 juli 2011",
+  "img": "",
+  "date": "2011-07-20",
+  
+  "region": "Östersund",
+  "best": ["Ghost","The Haunted"],
+  
+  "venue": "Stortorget"
+  },
+  {
+  "location": [
+  60.6187955,
+  15.6558542
+  ],
+  "title": "Rockstad Falun",
+  "lead": "Festival på Lugnets skidstadion, Falun den 2-3 juni 2011",
+  "img": "rockstad-falun-2011.jpg",
+  "date": "2011-06-02",
+  "enddate": "Fri Jun 03 2011 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Falun",
+  "best": ["Entombed","Grave Digger","Helloween","Pain","Raubtier","Sabaton","Van Canto"],
+  
+  "venue": "Lugnets skidstadion"
+  },
+  {
+  "location": [
+  63.1752438,
+  14.6385218
+  ],
+  "title": "Sabaton",
+  "lead": "Konsert på Gamla Teatern, Östersund den 9 december 2010",
+  "img": "",
+  "date": "2010-12-09",
+  
+  "region": "Östersund",
+  
+  "bands": ["Raubtier","Steelwing"],
+  "venue": "Gamla Teatern"
+  },
+  {
+  "location": [
+  57.7000546,
+  11.9914906
+  ],
+  "title": "Blind Guardian",
+  "lead": "Konsert på Brewhouse, Göteborg den 22 oktober 2010",
+  "img": "",
+  "date": "2010-10-22",
+  
+  "region": "Göteborg",
+  
+  "bands": ["Steelwing"],
+  "venue": "Brewhouse"
+  },
+  {
+  "location": [
+  61.2902566,
+  16.8318805
+  ],
+  "title": "Rockweekend",
+  "lead": "Festival på Moheds flygfält, Söderhamn den 8-10 juli 2010",
+  "img": "rockweekend-2010.png",
+  "date": "2010-07-08",
+  "enddate": "Sat Jul 10 2010 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Söderhamn",
+  "best": ["My Dying Bride","Myrah","Netherbird","Saxon","Twisted Sister","Unleashed","Venom"],
+  
+  "venue": "Moheds flygfält"
+  },
+  {
+  "location": [
+  63.1794111,
+  14.6372703
+  ],
+  "title": "Amon Amarth",
+  "lead": "Konsert på Gamla Tingshuset, Östersund den 6 oktober 2009",
+  "img": "",
+  "date": "2009-10-06",
+  
+  "region": "Östersund",
+  
+  "bands": ["Entombed"],
+  "venue": "Gamla Tingshuset"
+  },
+  {
+  "location": [
+  59.6505598,
+  12.617908
+  ],
+  "title": "Arvikafestivalen",
+  "lead": "Festival på Folkets park, Arvika den 2-4 juli 2009",
+  "img": "arvikafestivalen-2009.jpg",
+  "date": "2009-07-02",
+  "enddate": "Sat Jul 04 2009 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Arvika",
+  "best": ["Depeche Mode","Diary of Dreams","KoRn","Nine Inch Nails","Opeth","Röyksopp","Thåström"],
+  
+  "venue": "Folkparken"
+  },
+  {
+  "location": [
+  57.7162016,
+  11.9576063
+  ],
+  "title": "Metaltown",
+  "lead": "Stadsfestival på Frihamnen, Göteborg den 26-27 juni 2009",
+  "img": "metaltown-2009.jpeg",
+  "date": "2009-06-26",
+  "enddate": "Sat Jun 27 2009 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Göteborg",
+  "best": ["Cult of Luna","Evergrey","My Dying Bride","Opeth","The Haunted"],
+  
+  "venue": "Frihamnen"
+  },
+  {
+  "location": [
+  63.1748576,
+  14.638434
+  ],
+  "title": "Sabaton",
+  "lead": "Konsert på Plaza, Östersund den 20 november 2008",
+  "img": "",
+  "date": "2008-11-20",
+  
+  "region": "Östersund",
+  
+  
+  "venue": "Plaza"
+  },
+  {
+  "location": [
+  63.1794111,
+  14.6372703
+  ],
+  "title": "AeoN",
+  "lead": "Konsert på Gamla Tingshuset, Östersund den 12 september 2008",
+  "img": "",
+  "date": "2008-09-12",
+  
+  "region": "Östersund",
+  
+  "bands": ["Denicalis"],
+  "venue": "Gamla Tingshuset"
+  },
+  {
+  "location": [
+  61.2231209,
+  16.5771097
+  ],
+  "title": "Rockweekend",
+  "lead": "Festival på Kilafors herrgård, Bollnäs den 18-19 juli 2008",
+  "img": "",
+  "date": "2008-07-18",
+  "enddate": "Sat Jul 19 2008 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Bollnäs",
+  "best": ["Alice Cooper","Crazy Lixx","Entombed","Heat","Helloween"],
+  
+  "venue": "Kilafors herrgård"
+  },
+  {
+  "location": [
+  57.7162016,
+  11.9576063
+  ],
+  "title": "Metaltown",
+  "lead": "Stadsfestival på Frihamnen, Göteborg den 27-28 juni 2008",
+  "img": "metaltown-2008.jpg",
+  "date": "2008-06-27",
+  "enddate": "Sat Jun 28 2008 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Göteborg",
+  "best": ["Amon Amarth","Finntroll","In Flames","Nifelheim","Sabaton","Satyricon","Tiamat"],
+  
+  "venue": "Frihamnen"
+  },
+  {
+  "location": [
+  62.387408,
+  17.3074155
+  ],
+  "title": "6th Awakening",
+  "lead": "Konsert på Red Rock, Sundsvall den 24 november 2007",
+  "img": "",
+  "date": "2007-11-24",
+  
+  "region": "Sundsvall",
+  
+  "bands": ["My Own Grave","Nidsang"],
+  "venue": "Red Rock"
+  },
+  {
+  "location": [
+  62.387408,
+  17.3074155
+  ],
+  "title": "Watain",
+  "lead": "Konsert på Red Rock, Sundsvall den 24 september 2007",
+  "img": "",
+  "date": "2007-09-24",
+  
+  "region": "Sundsvall",
+  
+  "bands": ["Unpure"],
+  "venue": "Red Rock"
+  },
+  {
+  "location": [
+  57.6969266,
+  11.971289
+  ],
+  "title": "Schwarzmeer-don Kosaken",
+  "lead": "Konsert på Vasakyrkan, Göteborg den 4 augusti 2007",
+  "img": "",
+  "date": "2007-08-04",
+  
+  "region": "Göteborg",
+  
+  
+  "venue": "Vasakyrkan"
+  },
+  {
+  "location": [
+  57.7162016,
+  11.9576063
+  ],
+  "title": "Metaltown",
+  "lead": "Endagsfestival på Frihamnen, Göteborg den 7 juli 2007",
+  "img": "metaltown-2007.jpeg",
+  "date": "2007-06-30",
+  
+  "region": "Göteborg",
+  "best": ["Cult of Luna","Entombed","Marduk","Slayer"],
+  
+  "venue": "Frihamnen"
+  },
+  {
+  "location": [
+  57.696232,
+  11.982852
+  ],
+  "title": "Göteborgsmusiken: John Williams - filmusikens gigant",
+  "lead": "Konsert på Artisten, Göteborg den 4 maj 2007",
+  "img": "",
+  "date": "2007-05-04",
+  
+  "region": "Göteborg",
+  
+  
+  "venue": "Artisten"
+  },
+  {
+  "location": [
+  57.7038818,
+  11.9749784
+  ],
+  "title": "Kamelot",
+  "lead": "Konsert på Trädgårn, Göteborg den 5 januari 2007",
+  "img": "",
+  "date": "2007-01-05",
+  
+  "region": "Göteborg",
+  
+  "bands": ["Leaves&#x27; Eyes","Triosphere"],
+  "venue": "Trädgårn"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Blind Guardian",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 24 september 2006",
+  "img": "",
+  "date": "2006-09-24",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Astral Doors"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  57.4934295,
+  15.8583985
+  ],
+  "title": "Gates of Metal",
+  "lead": "Festival på Hultsfreds Hembygdspark, Hultsfred den 4-5 augusti 2006",
+  "img": "",
+  "date": "2006-08-04",
+  "enddate": "Sat Aug 05 2006 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Hultsfred",
+  "best": ["Dismember","Helloween","Lumsk","Mayhem","Sabaton","Thyrfing"],
+  
+  "venue": "Hultsfreds Hembygdspark"
+  },
+  {
+  "location": [
+  64.7495918,
+  20.9499729
+  ],
+  "title": "Trästocksfestivalen",
+  "lead": "Stadsfestival på Nordanå, Skelleftå den 20-22 juli 2006",
+  "img": "",
+  "date": "2006-07-20",
+  "enddate": "Sat Jul 22 2006 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Skelleftå",
+  "best": ["Entombed","Khoma","Thousands of Sparrows","Totalt Jävla Mörker"],
+  
+  "venue": "Nordanå"
+  },
+  {
+  "location": [
+  57.7162016,
+  11.9576063
+  ],
+  "title": "Metaltown",
+  "lead": "Endagsfestival på Frihamnen, Göteborg den 7 juli 2006",
+  "img": "metaltown-2006.jpg",
+  "date": "2006-07-07",
+  
+  "region": "Göteborg",
+  "best": ["Entombed","Evergrey","Motörhead","Opeth","The Haunted","Tool"],
+  
+  "venue": "Frihamnen"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "In Flames",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 27 oktober 2004",
+  "img": "",
+  "date": "2004-10-27",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Caliban","DevilDriver"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.2935752,
+  18.0813614
+  ],
+  "title": "Sarah Brightman",
+  "lead": "Konsert på Globen, Stockholm den 23 september 2004",
+  "img": "",
+  "date": "2004-09-23",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Globen"
+  },
+  {
+  "location": [
+  59.0287885,
+  12.2105089
+  ],
+  "title": "2000 Decibel",
+  "lead": "Festival på Folkets Park, Bengtsfors den 21-22 maj 2004",
+  "img": "",
+  "date": "2004-05-21",
+  "enddate": "Sat May 22 2004 02:00:00 GMT+0200 (centraleuropeisk sommartid)",
+  "region": "Bengtsfors",
+  "best": ["Astral Doors","Beseech","Dark Tranquility","Lefay","Morifade","Månegarm","Persuader","Tad Morose","Vintersorg"],
+  
+  "venue": "Folkets Park"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Dimmu Borgir",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 27 oktober 2003",
+  "img": "",
+  "date": "2003-10-27",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Hypocrisy","Norther"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Nightwish",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 16 november 2002",
+  "img": "",
+  "date": "2002-11-16",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Blind Guardian",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 8 september 2002",
+  "img": "",
+  "date": "2002-09-08",
+  
+  "region": "Stockholm",
+  
+  
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Stratovarius",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 23 mars 2002",
+  "img": "",
+  "date": "2002-03-23",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Symphony X","Thunderstone"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Gamma Ray",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 30 oktober 2001",
+  "img": "",
+  "date": "2001-10-30",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Sonata Arctica","Vanishing Point"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3009661,
+  18.086805
+  ],
+  "title": "Hammerfall",
+  "lead": "Konsert på Arenan/Fryshuset, Stockholm den 12 januari 2001",
+  "img": "",
+  "date": "2001-01-12",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Freedom Call","Virgin Steele"],
+  "venue": "Fryshuset"
+  },
+  {
+  "location": [
+  59.3444323,
+  18.07061
+  ],
+  "title": "Iron Maiden",
+  "lead": "Konsert på Stockholm Stadion, Stockholm den 27 juni 2000",
+  "img": "",
+  "date": "2000-06-27",
+  
+  "region": "Stockholm",
+  
+  "bands": ["Entombed","Slayer"],
+  "venue": "Stadion"
+  }
+  ]
