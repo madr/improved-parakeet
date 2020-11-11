@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  grid-area: heading;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0.25em;
+}
+
+input {
+  margin-right: 1em;
+  margin-left: 1em;
+  font-size: 1.2em;
+}
+
+#root {
+  display: grid;
+  grid-template-areas:
+    "heading text daterange"
+    "content content content";
+  padding: 1em;
+}
+
+article {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+article > div {
+  flex: 1;
+  padding-left: 1em;
+}
+
+article:hover,
+article:focus {
+  background-color: #eee;
+}
+
+figure {
+  width: 25%;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#query {
+  min-width: 20em;
+}
+
+.daterange {
+  grid-area: daterange;
+  align-self: center;
+}
+
+.textfilter {
+  grid-area: text;
+  align-self: center;
+}
+
+.events {
+  grid-area: content;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 1fr;
+  gap: 1em;
+  border-top: 1px solid #ddd;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+.no-poster {
+  display: flex;
+  color: #888;
+  height: 80%;
+  text-align: center;
+  align-items: center;
+}
+
+.lead {
+  font-style: italic;
+}
