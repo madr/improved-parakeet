@@ -1,5 +1,5 @@
 import { atom } from "recoil";
-import { getDate } from "../date-utils";
+import { getDate, str2date } from "../date-utils";
 
 export const textFilterState = atom({
   key: "textFilterState",
@@ -9,7 +9,7 @@ export const textFilterState = atom({
 export const daterangeFilterState = atom({
   key: "daterangeFilterState",
   default: {
-    from: getDate(-365 * 21),
+    from: str2date("2000-06-01"),
     to: getDate(),
   },
 });

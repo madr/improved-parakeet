@@ -19,10 +19,5 @@ export const withinDaterange = (
   item: EventData,
   from: Date,
   to: Date
-): Boolean => {
-  console.log(str2date(item.date));
-  console.log(str2date(item.enddate || item.date));
-  return (
-    str2date(item.date) <= to && str2date(item.enddate || item.date) >= from
-  );
-};
+): Boolean =>
+  str2date(item.date) <= to && str2date(item.enddate || item.date) >= from;
